@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(228, 225, 225);
+}
+.conm {
+  text-align: center;
+}
+h1 {
+  text-shadow: 3px 3px 2px rgb(34, 34, 33);
+  color: brown;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+hr {
+  border-color: rgb(221, 8, 8);
+  opacity: 0.8;
+  width: 200px;
+}
+fieldset {
+  border-color: rgb(199, 199, 199);
+}
